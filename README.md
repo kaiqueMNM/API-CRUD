@@ -9,6 +9,4 @@ Hoje venho compartilhar um grande progresso com vocês na minha jornada back-end
 - **VSCode:** Editor de código utilizado no desenvolvimento do projeto.
 - **Node.js:** Ambiente de execução JavaScript utilizado para desenvolver a API.
 - **Express:** Framework web para Node.js utilizado para construir a API.
-# aula-git
-# chupetinha-de-baleia
-# chupetinha-de-baleia
+
